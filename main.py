@@ -10,4 +10,8 @@ print("This print has been added in second commit.")
 
 my_func()
 
+<<<<<<< HEAD
 #changes 1
+=======
+#changes 2
+>>>>>>> abranch
